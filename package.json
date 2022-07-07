@@ -24,7 +24,7 @@
     "crypto": "^1.0.1",
     "formik": "^1.5.8",
     "intl": "^1.2.5",
-    "moment": "^2.27.0",
+    "moment": "^2.29.4",
     "native-base": "^2.13.12",
     "react": "16.9.0",
     "react-native": "0.61.5",
